@@ -1,4 +1,4 @@
-package week1.customLambda;
+package week1.LearningLambdaExpression.customLambda;
 
 public class LambdaDemo {
     public static void main(String[] args) {

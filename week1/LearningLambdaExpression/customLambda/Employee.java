@@ -1,4 +1,4 @@
-package week1.customLambda;
+package week1.LearningLambdaExpression.customLambda;
 
 @FunctionalInterface
 public interface Employee {

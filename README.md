@@ -2,7 +2,7 @@
 
 ## Java 8+ features you’ll use daily:
 
-- ~~Lambdas~~, Streams, Optional
+- ~~Lambdas~~, ~~Streams~~, Optional
 - CompletableFuture
 - Records (Java 17+)
 - Concurrency (practical, not academic):
@@ -11,3 +11,4 @@
 - JVM basics (just enough):
 - Heap vs Stack
 - GC at a high level
+

@@ -17,7 +17,7 @@
 
 
 // With lambda expression
-package week1.LearningLambdaExpression.lambdaIndustryUsesMethod;
+package week1.Java8.LearningLambdaExpression.lambdaIndustryUsesMethod;
 
 public class MyClass {
     public static void main(String[] args) {
